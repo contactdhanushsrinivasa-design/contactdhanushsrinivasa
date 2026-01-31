@@ -20,6 +20,7 @@ Libraries i have worked on Streamlit,Numpy,Pandas,OpenCV,YOLOV8,Matplotlib
 Playing with AI Agents , especially with n8n and i take help from LLM'S
 
 FACTS : 
+
   {Black Coffee ☕}
 
   {I'm a fan of Perplexity AI}
