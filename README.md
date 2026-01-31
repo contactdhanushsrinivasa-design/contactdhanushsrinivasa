@@ -9,7 +9,12 @@ I'm the kind of person where by hook or crook i get the work done .
 
 I love to debug errors,after debugging i kind of feel as if i have saved everyone from a apocalypse
 
-The languages i'm fluent in  Python,SQL,JavaSript,HTML,CSS , Tools i'm good at using ⚙️ GIT , Backend - FireBase,SQLlite
+The languages i'm fluent in  Python,SQL,JavaSript,HTML,CSS 
+
+Tools i'm good at using ⚙️ GIT  
+
+Backend - FireBase,SQLlite
+
 Libraries i have worked on Streamlit,Numpy,Pandas,OpenCV,YOLOV8,Matplotlib 
 
 Playing with AI Agents , especially with n8n and i take help from LLM'S
