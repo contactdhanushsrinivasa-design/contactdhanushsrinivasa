@@ -20,11 +20,11 @@ Libraries i have worked on Streamlit,Numpy,Pandas,OpenCV,YOLOV8,Matplotlib
 Playing with AI Agents , especially with n8n and i take help from LLM'S
 
 FACTS : 
-Black Coffee ☕
+  {Black Coffee ☕}
 
-I'm a fan of Perplexity AI 
+  {I'm a fan of Perplexity AI}
 
-I love my Laptop(MSI) 
+  {I love my Laptop(MSI) } 
 
 ![TheEndBlackAndWhiteGIF](https://github.com/user-attachments/assets/51673df4-307d-4b46-944c-70137293abc2)
 
