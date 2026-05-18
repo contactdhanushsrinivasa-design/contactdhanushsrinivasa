@@ -23,8 +23,6 @@ FACTS :
 
   {Black Coffee ☕}
 
-  {I'm a fan of Perplexity AI}
-
   {I love my Laptop(MSI) } 
 
 ![TheEndBlackAndWhiteGIF](https://github.com/user-attachments/assets/51673df4-307d-4b46-944c-70137293abc2)
